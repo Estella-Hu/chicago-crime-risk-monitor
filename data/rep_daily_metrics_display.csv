@@ -1,0 +1,7 @@
+district,model,granularity,evaluation_scope,rmse,mape
+11,SARIMAX,daily,representative_daily_validation,6.522,59.58
+11,TBATS,daily,representative_daily_validation,6.6147,56.08
+14,SARIMAX,daily,representative_daily_validation,5.3816,46.15
+14,TBATS,daily,representative_daily_validation,5.9243,46.71
+8,SARIMAX,daily,representative_daily_validation,7.5453,71.39
+8,TBATS,daily,representative_daily_validation,8.1635,75.4

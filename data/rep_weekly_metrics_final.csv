@@ -1,0 +1,10 @@
+district,model,granularity,evaluation_scope,rmse,mape
+8,SARIMAX,weekly,representative_weekly_validation,17.9125597218474,6.190415234553617
+8,XGBoost,weekly,representative_weekly_validation,31.44,10.9
+8,LSTM,weekly,representative_weekly_validation,25.9348,8.4
+11,SARIMAX,weekly,representative_weekly_validation,12.120937303793792,5.296847694759532
+11,XGBoost,weekly,representative_weekly_validation,51.72,25.7
+11,LSTM,weekly,representative_weekly_validation,18.4101,8.2
+14,SARIMAX,weekly,representative_weekly_validation,15.36567376850101,9.779761271675492
+14,XGBoost,weekly,representative_weekly_validation,22.96,15.1
+14,LSTM,weekly,representative_weekly_validation,18.0942,11.5
