@@ -1,5 +1,7 @@
 # Chicago Crime Risk Monitor
 
+**Live Demo:** [Open the dashboard](https://chicago-crime-risk-monitor.streamlit.app/)
+
 ## Project Overview
 Chicago Crime Risk Monitor is an interactive Streamlit dashboard designed to visualize district-level crime patterns and support risk monitoring with forecast-informed insights. The application helps users explore recent crime activity, compare district trends, and review analytical outputs in an accessible interface.
 
@@ -26,14 +28,11 @@ The dashboard is based on a broader crime forecasting project involving:
 
 ## Selected Screenshots
 
-### Dashboard Overview
-![Dashboard Overview](assets/dashboard-home.png)
-
 ### District-Level View
 ![District-Level View](assets/district-view.png)
 
-### Model and Risk Insights
-![Model and Risk Insights](assets/model-insights.png)
+### Heatmap View
+![Heatmap View](assets/heatmap.png)
 
 ## My Contribution
 - Helped translate crime analysis outputs into a Streamlit-based dashboard
